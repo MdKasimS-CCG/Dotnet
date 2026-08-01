@@ -4,11 +4,83 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KQJE4ZC_hC50FzI_XFL1-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="240" y="200" as="geometry" />
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Framework" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="KQJE4ZC_hC50FzI_XFL1-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="400" y="200" as="geometry" />
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Clicks" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RISC V" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cachy OS" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ubuntu" vertex="1">
+          <mxGeometry height="40" width="120" x="520" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="VS2026" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="VSCode" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Windows" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="C#" vertex="1">
+          <mxGeometry height="40" width="120" x="40" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Rust" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Python" vertex="1">
+          <mxGeometry height="40" width="120" x="520" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TypeScript" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MAUI" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Angular" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Blazor" vertex="1">
+          <mxGeometry height="40" width="120" x="520" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Postgre SQL" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MS SQL Server" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Go" vertex="1">
+          <mxGeometry height="40" width="120" x="680" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OpenCL" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Azure" vertex="1">
+          <mxGeometry height="40" width="120" x="240" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AWS" vertex="1">
+          <mxGeometry height="40" width="120" x="480" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Zitadel" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ERPNext" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Prometheus" vertex="1">
+          <mxGeometry height="40" width="120" x="600" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="FPGA" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="KQJE4ZC_hC50FzI_XFL1-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kata" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
